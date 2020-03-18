@@ -6,7 +6,8 @@ const SongReducer = () => {
         { title: "Bye Bye", duration: "4:01"},
         { title: "Hey Jude", duration: "2:01"},
         { title: "Mama Mia", duration: "5:01"},
-        { title: "Yeah!", duration: "6:01"}
+        { title: "Yeah!", duration: "6:01"},
+        { title: "fuck!", duration: "2:01"}
     ]
 }
 
